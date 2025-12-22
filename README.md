@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Karbonicpx/Karbonicpx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Hi, I'm Nicolas 👋</h1>
+  <p><strong>Full Stack Developer</strong></p>
+  <p><em>Junior Full Stack Develope, currently working at Renault Group r</em></p>
 
-Here are some ideas to get you started:
+  <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- STACK -->
+  <h3>⚙️ Tech Stack</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nodejs,express,mysql,mongodb,git" />
+  </p>
+
+  <br/>
+  
+  <p>
+    🎓 Information Systems @ UTFPR<br/>
+    🚗 Software Developer @ Renault Group
+  </p>
+
+  <br/>
+
+  <!-- CONTACT -->
+  <h3>📫 Contact</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/nap1903/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+  </p>
+
+</div>
