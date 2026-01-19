@@ -16,7 +16,6 @@
   
   <p>
     🎓 Information Systems @ UTFPR<br/>
-    🚗 Software Developer @ Renault Group
   </p>
 
   <br/>
