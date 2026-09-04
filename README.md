@@ -2,7 +2,7 @@
 
   <h1>Hi, I'm Nicolas 👋</h1>
   <p><strong>Full Stack Developer</strong></p>
-  <p><em>Junior Full Stack Develope, currently working at Renault Group</em></p>
+  <p><em>Junior Full Stack Develope, currently working at SM24</em></p>
 
   <br/>
 
